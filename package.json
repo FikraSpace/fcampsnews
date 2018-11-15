@@ -1,0 +1,17 @@
+{
+  "name": "newsapp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assets": "^3.0.0",
+    "babel-polyfill": "^6.26.0"
+  }
+}

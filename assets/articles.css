@@ -1,0 +1,41 @@
+main {
+  padding: 0 10%;
+  padding-top: 50px;
+  background-color: rgba(245, 246, 250, 0.8)
+}
+
+article {
+  position: relative;
+  display: flex;
+  margin: 20px 0px 20px 0px;
+  background-color: #fff;
+  padding: 14px;
+  border: 1px solid #E5E9F2;
+  border-radius: 4px;
+}
+
+
+
+article #text{
+  margin-left: 14px;
+  flex-grow: 1;
+}
+
+article time {
+  color: #399DF2;
+  font-weight: bold;
+  position: absolute;
+  bottom: 14px;
+}
+
+article h1 {
+  font-family: 'Playfair Display', serif;
+  text-transform: capitalize;
+}
+
+article #voter { 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  outline: none;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.done {
+  color: red;
+  text-decoration: line-through;
+}
+
+.active {
+  color: blue;
+}
